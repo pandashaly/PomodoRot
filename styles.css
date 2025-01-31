@@ -1,0 +1,126 @@
+/* 🌙 Dark Mode Base */
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 320px;
+    background-color: #14141F; /* Dark background */
+    color: #E1E1FF;
+    border: 2px solid #ff007f; 
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(255, 0, 127, 0.6); /* Soft pink glow */
+}
+
+/* 🍅 Title Styling */
+h1 {
+    font-size: 34px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ff007f; /* Neon pink */
+    text-shadow: 0 0 5px #ff007f, 0 0 10px #ff007f;
+    letter-spacing: 1px;
+}
+
+/* ⏳ Timer Display */
+#timer {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #00FFFF; /* Cyan */
+    text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF;
+}
+
+/* 🎮 Buttons */
+button {
+    margin: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#startBtn {
+    background: linear-gradient(45deg, #00ff99, #00ccff);
+    color: black;
+    box-shadow: 0 0 8px #00ff99;
+}
+
+#startBtn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px #00ff99;
+}
+
+/* 🔄 Reset Button (Neon Purple) */
+#resetBtn {
+    background: linear-gradient(45deg, #cc00ff, #6600cc);
+    color: white;
+    box-shadow: 0 0 8px #cc00ff;
+}
+
+#resetBtn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px #cc00ff;
+}
+
+/* 📺 Brain Rot Video */
+#brainRotVideo {
+    width: 300px;
+    height: 168px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0 0 15px rgba(255, 0, 127, 0.5);
+}
+
+/* 🎛️ Glitch Effect */
+@keyframes glitch {
+    0% { text-shadow: 2px 2px #ff007f; }
+    25% { text-shadow: -2px -2px #00ffff; }
+    50% { text-shadow: 2px -2px #ff007f; }
+    75% { text-shadow: -2px 2px #00ffff; }
+    100% { text-shadow: 2px 2px #ff007f; }
+}
+
+h1:hover {
+    animation: glitch 0.5s infinite alternate;
+}
+
+/* 🎉 Welcome Page Styling */
+#welcomePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 350px;  /* Match popup width */
+    height: 400px;
+    background-color: #14141F; /* Dark mode */
+    color: #E1E1FF; /* Neon text */
+    text-align: center;
+    padding: 20px;
+}
+
+/* 🍅 Logo */
+#logo {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+/* 🚀 Start Button */
+#startApp {
+    background: linear-gradient(90deg, #ff007f, #ff6600);
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#startApp:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(255, 0, 127, 0.8);
+}

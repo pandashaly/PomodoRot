@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "PomodoRot",
+    "version": "1.0",
+    "description": "A Gen Z productivity extension with a Pomodoro timer and brain rot videos.",
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "main.html",
+        "default_icon": {
+            "16": "tomato.png",
+            "48": "tomato.png",
+            "128": "tomato.png"
+        }
+    }
+}
