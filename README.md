@@ -1,7 +1,6 @@
 # PomodoRot <img src="tomato.png" alt="App Icon" width="40">
-### 📌 PomodoRot - A Gen Z Productivity Chrome Extension 🍅🌀
 
-<img src="logo.png" alt="TaskBubble App Icon" width="250">
+### 📌 PomodoRot - A Gen Z Productivity Chrome Extension 🍅🌀
 
 **🚧 Project Status** _This project is still in development and has not been published yet. Features may change as I continue working on it._
 
@@ -15,3 +14,6 @@ PomodoRot is a small side project I’m working on to practice HTML, CSS, and Ja
 - cool neon cyberpunk UI
 
 _This is useful for studying, coding, or when you need to sit through long lectures but want something engaging in the background._
+
+
+<img src="pomodorot_app.png" alt="app view" width="250">
