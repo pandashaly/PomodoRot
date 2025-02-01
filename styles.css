@@ -84,6 +84,12 @@ button {
     100% { text-shadow: 2px 2px #ff007f; }
 }
 
+a:is(:link, :visited, :hover, :active) {
+    color: #900f5e;
+    font-size: 12px;
+    opacity: 1;
+}
+
 h1:hover {
     animation: glitch 0.5s infinite alternate;
 }
