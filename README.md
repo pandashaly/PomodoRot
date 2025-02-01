@@ -1,4 +1,4 @@
-# <img src="tomato.png" alt="App Icon" width="40"> PomodoRot
+# <img src="cool_pomodoro.PNG" alt="App Icon" width="60"> PomodoRot
 
 ### 📌 PomodoRot - A Gen Z Productivity Chrome Extension 🍅🌀
 
@@ -18,4 +18,4 @@ _This is useful for studying, coding, or when you need to sit through long lectu
 
 <img src="pomodorot_app.png" alt="app view" width="250">
 
-<p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
+<p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
