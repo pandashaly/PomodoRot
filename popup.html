@@ -8,20 +8,22 @@
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-	<h1>PomodoRot 🍅</h1>
+	<h1>PomodoRot <img src="cool_pomodoro.PNG" alt="Logo" width="40"></h1>
 	<div id="timer">
 		<span id="minutes">25</span>:<span id="seconds">00</span>
 	</div>
 	<button id="startBtn">Start</button>
 	<button id="resetBtn">Reset</button>
-	<h2>Brain Rot Vid🎥</h2>
+	<h3>Choose your Brain Rot Vid🎥</h3>
 	<select id="videoSelect">
 		<option value="https://www.youtube.com/embed/Opw-Ej1rDko">Subway Surfers Gameplay</option>
 		<option value="https://www.youtube.com/embed/LXb3EKWsInQ">Minecraft Parkour</option>
 		<option value="https://www.youtube.com/embed/jfKfPfyJRdk">Lo-Fi Beats</option>
 	</select>
-	<button id="loadVideo">▶ Load Video</button>
-	<iframe id="brainRotVideo" width="300" height="168" frameborder="0" allowfullscreen></iframe>
+	<iframe
+		id="brainRotVideo" width="300" height="168" frameborder="0" allowfullscreen>
+	</iframe>
+	<button id="play-button">▶</button>
 	<script src="popup.js"></script>
 </body>
 </html>

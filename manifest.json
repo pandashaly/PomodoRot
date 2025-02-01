@@ -5,7 +5,7 @@
     "description": "A Gen Z productivity extension with a Pomodoro timer and brain rot videos.",
     "permissions": ["storage"],
     "action": {
-        "default_popup": "main.html",
+        "default_popup": "popup.html",
         "default_icon": {
             "16": "tomato.png",
             "48": "tomato.png",
