@@ -18,4 +18,7 @@ _This is useful for studying, coding, or when you need to sit through long lectu
 
 <img src="pomodorot_app.png" alt="app view" width="250">
 
+If you want to learn how to build your own google chrome extension here are some resources:
+https://www.freecodecamp.org/news/building-chrome-extension/
+
 <p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
