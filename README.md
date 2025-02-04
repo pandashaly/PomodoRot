@@ -26,4 +26,4 @@ https://www.freecodecamp.org/news/building-chrome-extension/
 - add video selection thumbnail
 - add video popup floating window upon pressing play
 
-<p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
+<p align=center> <sub> PomodoRot created with 🫀 and 🧠 by <a href url="https://github.com/pandashaly/"> Shaly</a> &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
