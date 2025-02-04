@@ -21,4 +21,9 @@ _This is useful for studying, coding, or when you need to sit through long lectu
 If you want to learn how to build your own google chrome extension here are some resources:
 https://www.freecodecamp.org/news/building-chrome-extension/
 
+### TO DO:
+- fix vid embedding
+- add video selection thumbnail
+- add video popup floating window upon pressing play
+
 <p align=center> <sub> Created with 🫀 and 🧠 by Shaly &nbsp;&nbsp;&nbsp; ©2025 </sub> </p>
